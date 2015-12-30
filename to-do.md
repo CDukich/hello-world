@@ -5,7 +5,8 @@
 * 2015-12-29: learn [bash commands](http://cli.learncodethehardway.org/book/) all the commands I told you to study are described and explained.
 
 ## PB Adds:
-- [ ] 2015-12-30 do [another git tutorial](https://rogerdudler.github.io/git-guide/) I like the style.
+- 2015-12-30 check out the new *done* [feature](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments) in github markdown. do you like it?
+- 2015-12-30 do [another git tutorial](https://rogerdudler.github.io/git-guide/) I like the style.
 
 # Done
 * 2015-12-30/2015-12-30: Make task list in Markdown for GitHub
