@@ -7,6 +7,7 @@
 ## PB Adds:
 - 2015-12-30 check out the new *done* [feature](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments) in github markdown. do you like it?
 - 2015-12-30 do [another git tutorial](https://rogerdudler.github.io/git-guide/) I like the style.
+- 2015-12-30 consider [this format](https://github.com/ginatrapani/todo.txt-cli/wiki/the-todo.txt-format). it's well-tested, has lots of other tools to work with it. it uses priorities (listed as (A), (B), or (C)), projects (like +ibmtest, +commandstudy), and context (@laptop, @mom).
 
 # Done
 * 2015-12-30/2015-12-30: Make task list in Markdown for GitHub
